@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Gecko_Split-rescue")(type "KiCad")(uri "${KIPRJMOD}/Gecko_Split-rescue.kicad_sym")(options "")(descr ""))
+)
