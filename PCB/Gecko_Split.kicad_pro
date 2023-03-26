@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 4.7,
-          "height": 4.9,
-          "width": 4.9
+          "drill": 4.0,
+          "height": 4.0,
+          "width": 4.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -733,6 +733,23 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "e7caed35-13fc-4b36-93d4-2460c1eebcb2",
+      ""
+    ],
+    [
+      "56f3d820-7226-4950-8455-54e6c94b81cb",
+      "matrix"
+    ],
+    [
+      "e2bbe79a-5001-48db-a28e-426de16751da",
+      "RGB"
+    ],
+    [
+      "d001f791-6ad1-4f4f-aecc-0f27907ddbef",
+      "charging"
+    ]
+  ],
   "text_variables": {}
 }
